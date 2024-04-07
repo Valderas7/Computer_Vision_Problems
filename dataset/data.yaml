@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Comida
+train: images/train
+val: images/val
+test: images/test
+
+nc: 36 # número de clases y los nombres de cada uno de ellas (está en turco)
+names: ['bulgur', 'burgu makarna', 'cubuk makarna', 'dolmalik biber', 'domates', 'fiyonk makarna', 'havuc', 'kabak', 'ketcap', 'kirmizi mercimek', 'kiyma', 'lahana', 'limon', 'mantar', 'maydanoz', 'mayonez', 'muz', 'nohut', 'patates', 'patlican', 'peynir', 'pirinc', 'salatalik', 'salca', 'sarimsak', 'sogan', 'sucuk', 'sut', 'tavuk', 'teremyag', 'tereyagi', 'yesil biber', 'yogurt', 'yumurta', 'zeytin', 'zeytinyagi']

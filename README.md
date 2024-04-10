@@ -1,5 +1,5 @@
-# Computer Vision
-En esta carpeta se encuentran las imágenes, archivos y códigos desarrollados para ejecutar el entrenamiento y/o la inferencia de varias técnicas de `Computer Vision` que aún no he visto en el ámbito laboral, para al menos tener una mínima idea práctica sobre estos temas.
+# Deep Learning Problems
+En este repositorio se encuentran las imágenes, archivos y códigos desarrollados para ejecutar el entrenamiento y/o la inferencia de distintos problemas de `deep learning` que aún no he visto en el ámbito laboral, para al menos tener una mínima idea práctica sobre ellos
 
 ## Estructura
 
